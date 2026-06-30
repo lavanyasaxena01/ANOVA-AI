@@ -1,0 +1,42 @@
+# dependencies
+node_modules/
+
+# build outputs
+build/
+dist/
+
+# test output
+coverage/
+
+# system files
+.DS_Store
+Thumbs.db
+
+# logs
+*.log
+
+# environment files
+.env
+.env.*
+!.env.example
+
+# local editor settings
+.vscode/
+.idea/
+
+# confidential credentials
+*.key
+*.pem
+*.p12
+*.pfx
+*.crt
+*.cer
+*.env.local
+*.secret
+*.auth
+*.credentials
+*.jks
+
+# AI Studio metadata
+.aistudio/
+assets/.aistudio/

@@ -1,0 +1,6 @@
+{
+  "name": "ANOVA AI",
+  "description": "AI-Based Energetic Particle Radiation Forecasting & Decision Support System for Geostationary Satellites",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
